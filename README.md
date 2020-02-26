@@ -11,5 +11,5 @@ Cong2019 - [_DO-AutoEncoder: Learning and Intervening Bivariate Causal Mechanism
 Parascandolo2018 - [_Learning Independent Causal Mechanisms_](https://arxiv.org/pdf/1712.00961.pdf)<br>
 
 ## To do list
-Begio2019 - [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/pdf/1901.10912.pdf)
+Begio2019 - [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/pdf/1901.10912.pdf) <br>
 Begio2012 - [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf)
