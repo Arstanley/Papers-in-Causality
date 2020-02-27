@@ -12,4 +12,5 @@ Parascandolo2018 - [Learning Independent Causal Mechanisms](https://arxiv.org/pd
 
 ## To do list
 Begio2019 - [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/pdf/1901.10912.pdf) <br>
-Begio2012 - [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf)
+Begio2012 - [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) <br>
+Mooij2018 - [Joint Causal Inference from Multiple Datasets](https://arxiv.org/pdf/1611.10351v3.pdf)
