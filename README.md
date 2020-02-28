@@ -13,4 +13,9 @@ Parascandolo2018 - [Learning Independent Causal Mechanisms](https://arxiv.org/pd
 ## To do list
 Begio2019 - [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/pdf/1901.10912.pdf) <br>
 Begio2012 - [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) <br>
-Mooij2018 - [Joint Causal Inference from Multiple Datasets](https://arxiv.org/pdf/1611.10351v3.pdf)
+Mooij2018 - [Joint Causal Inference from Multiple Datasets](https://arxiv.org/pdf/1611.10351v3.pdf) <br>
+### Interventions
+Tian2018 - [Causal Discovery From Changes](https://arxiv.org/pdf/1301.2312.pdf) <br>
+Markowetz2005 - [Probabilistic soft interventions in conditional Gaussian networks](http://www.gatsby.ucl.ac.uk/aistats/fullpapers/139.pdf)
+EatenMurphy2007 - [Exact Bayesian structure learning from uncertain interventions](http://proceedings.mlr.press/v2/eaton07a/eaton07a.pdf)
+MooijHeskes2013 - [Cyclic causal discovery from continuous equilibrium data](https://arxiv.org/pdf/1309.6849.pdf)
